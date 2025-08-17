@@ -1,6 +1,6 @@
 # Speech Processing API - Standalone Version
 
-This is a standalone speech processing API that provides speech-to-text, text-to-speech, and speech-to-speech functionality without requiring the main `textgen.py` file.
+This is a standalone speech processing API that provides speech-to-text, text-to-speech, and speech-to-speech functionality.
 
 # Speech Modules
 
