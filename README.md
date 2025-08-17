@@ -2,7 +2,16 @@
 
 This is a standalone speech processing API that provides speech-to-text, text-to-speech, and speech-to-speech functionality without requiring the main `textgen.py` file.
 
-## 🚀 Quick Start
+# Speech Modules
+
+This repository contains various modules for speech processing, including speech recognition, audio preprocessing, and related utilities.
+
+## Features
+
+- Speech-to-text conversion
+- Audio preprocessing and feature extraction
+- Utility functions for audio file handling
+- ## 🚀 Quick Start
 
 ### 1. Install Dependencies
 
